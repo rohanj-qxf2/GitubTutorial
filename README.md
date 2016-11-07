@@ -1,2 +1,2 @@
 # GitubTutorial
-Just for Test
+Test github is repository for beginners 
